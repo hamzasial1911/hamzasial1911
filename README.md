@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Muhammad Hamza Sial</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Node%20|%20React%20|%20AI%20|%20Enthusiast%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;FASTAPI%20|%20Django%20|%20AI%20|%20Enthusiast%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">Motivated Computer Scientist graduating from FAST NUCES, Lahore. I'm passionate about new learning and technologies and keep learning them
@@ -17,7 +17,7 @@ and analytical skills.</h4>
 
 <!-- - 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a> -->
 
-- 🌱 I’m currently Working on Web App(ReactJs & NodeJs)
+- 🌱 I’m currently Working on Web App(ReactJs & Django(REST Framework))
 
 - 🤝 I’m available for freelancing.
 
@@ -25,7 +25,7 @@ and analytical skills.</h4>
 
 <!-- - 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc) -->
 
-- 💬 Ask me about **Node js & React js**
+- 💬 Ask me about **FAST API, Django, flask, python & little bit React js**
 
 - 📫 How to reach me **hamza.sial1911@gmail.com**
 - ⚡ Fun fact :- eat(); code(); sleep(); repeat();
