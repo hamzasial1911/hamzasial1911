@@ -1,87 +1,78 @@
-<h1 align="center">Hey there 👋, I'm Muhammad Hamza Sial</h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;FASTAPI%20|%20Django%20|%20AI%20|%20Enthusiast%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
-<hr/>
-<h4 align="center">Computer Scientist with 3 years of professional experience. I graduated from FAST NUCES, Lahore, and have since worked with leading tech companies, including Devsinc and Turing. Passionate about continuous learning and staying at the forefront of new technologies, I thrive on taking on challenges that push my creativity, problem-solving, and analytical abilities. My experience has allowed me to not only refine my technical skills but also adapt to dynamic work environments and contribute effectively to cutting-edge projects.</h4>
-<br/>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p> -->
-
-<!-- <p align="left"> <a href="https://twitter.com/100rabhcsmc" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p> -->
-
-<a target="_blank" align="center">
-  <img align="right" top="500" height="450" width="400" alt="GIF" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif">
-</a>
-
-<!-- - 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a> -->
-
-- 🌱 I’m currently Working on Web App(ReactJs & Django(REST Framework))
-
-- 🤝 I’m available for freelancing.
-
-- 🌱 I’m currently learning ReactJs <a href="https://scrimba.com/learn/learnreact/" target="blank">Learn React for free</a>
-
-<!-- - 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc) -->
-
-- 💬 Ask me about **FAST API, Django, flask, python & little bit React js**
-
-- 📫 How to reach me **hamza.sial1911@gmail.com**
-- ⚡ Fun fact :- eat(); code(); sleep(); repeat();
-
-<!-- - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a> -->
-<br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<!-- Animated Top Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=140&section=header&text=Hamza%20Sial&fontSize=48&fontColor=ffffff&animation=twinkling" width="100%"/>
 
 <p align="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/hamzasial1911/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/hamzasial1911">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-<!-- 		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile"> -->
-<!-- 				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a> -->
-<!-- 	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc"> -->
-<!-- 					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a> -->
-        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/hamza.sial1911/">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-<!-- 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc"> -->
-<!-- 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a> -->
-<!-- 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber"> -->
-<!-- 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a> -->
-<!-- 		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf"> -->
-<!-- 					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a> -->
-      </div>
-
+  <!-- Animated typing headline -->
+  <a href="https://github.com/hamzasial1911">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=700&center=true&vCenter=true&multiline=true&repeat=true&width=900&lines=Senior+Python+Developer+%7C+LLM+Engineer+%7C+Cloud-Native+Builder;FastAPI%E2%80%A2Django%E2%80%A2PyTorch%E2%80%A2Transformers%E2%80%A2AWS%E2%80%A2Kubernetes" alt="Typing SVG" />
+  </a>
 </p>
 
-<br>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-      </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> 
-	 </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-	<img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="django"
-      width="40" height="40" /> 
-</a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"alt="react"  width="40" height="40" />
-</a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
-    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" /> 
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38" height="38" alt="wave hand"/> 
+  <b>Welcome!</b> I build scalable, intelligent, and cloud-native systems.
 </p>
 
-<p align="center"> 
-  Views<br>
-  <img src="https://profile-counter.glitch.me/hamzasial1911/count.svg" />
+---
+
+## 🧭 About Me
+- 🧑‍💻 Senior Python Developer @ Turing — building & optimizing **LLMs** and shipping ML to production.
+- ⚙️ Migration + platform work: **FastAPI**, **Remix.js**, **Django/DRF**, CI/CD, **Docker**, IaC (**Terraform**).
+- ☁️ Cloud & infra: **AWS** (Lambda, S3, EC2, DynamoDB, IAM, CloudFormation), **GCP**, **Kubernetes**.
+- 🎓 BSCS — FAST-NUCES (Lahore). Interests: NLP, IR, RAG pipelines, model deployment.
+
+<!-- Subtle animated divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:0072FF&height=2&section=footer&reversal=true" width="65%" />
 </p>
+
+## 🧠 Tech Stack
+**Languages:** Python • JavaScript • TypeScript • SQL • C/C++  
+**Frameworks:** FastAPI • Flask • Django • DRF • GraphQL • Next.js • Remix.js  
+**ML:** PyTorch • TensorFlow • Hugging Face • RAG • Feature Eng.  
+**Data:** PostgreSQL • MySQL • MongoDB • DynamoDB • Redis • Pinecone  
+**Cloud/Infra:** AWS • GCP • Terraform • Kubernetes • Docker • AWS SAM  
+**Ops/Obs:** CI/CD • Prometheus • Grafana • OpenAPI • Pytest • Postman
+
+<p align="center">
+  <!-- Subtle looped pulse bar -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C6FF&center=true&vCenter=true&width=500&lines=Always+learning+%E2%80%94+shipping+daily;Design+for+scale%2C+optimize+for+clarity" alt="animated tagline">
+</p>
+
+## 🧩 Featured Projects
+### Kirubot — FastAPI + Next.js + RAG
+JWT auth, Redux state, typed APIs, and retrieval-augmented generation in production.
+
+### Fund Raiser — Django + Next.js
+E-commerce stack with search, filters, and PostgreSQL; Redux for cart/session.
+
+### Library Management (C++)
+OOP design, lending/returns, overdue tracking, persistent storage.
+
+<!-- Animated GitHub Stats (SVGs auto-update) -->
+## 📊 GitHub Pulse
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzasial1911&theme=transparent" alt="streak stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hamzasial1911&show_icons=true&rank_icon=github&theme=transparent" alt="profile stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzasial1911&layout=compact&langs_count=8&theme=transparent" alt="top languages" />
+</p>
+
+<!-- Contribution Snake (animated) -->
+## 🐍 Contribution Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamzasial1911/hamzasial1911/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamzasial1911/hamzasial1911/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/hamzasial1911/hamzasial1911/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+<!-- Animated Bottom Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072FF,100:00C6FF&height=120&section=footer" width="100%"/>
+
+## 📫 Connect
+<a href="mailto:hamza.sial1911@gmail.com">hamza.sial1911@gmail.com</a> • 
+<a href="https://linkedin.com/in/hamzasial1911">LinkedIn</a> • 
+<a href="https://github.com/hamzasial1911">GitHub</a>
