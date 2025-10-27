@@ -1,5 +1,5 @@
-
 name: Generate Snake
+
 on:
   schedule:
     - cron: "0 */12 * * *"   # every 12 hours
@@ -7,24 +7,41 @@ on:
   push:
     branches: ["main"]
 
+permissions:
+  contents: write   # <-- required to push to the repo
+
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
-      - uses: Platane/snk@v3
+        with:
+          fetch-depth: 0
+
+      - name: Generate SVGs
+        uses: Platane/snk@v3
         with:
           github_user_name: hamzasial1911
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
-      - name: Push snake to output branch
+
+      - name: Commit to output branch
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          mkdir -p output
-          mv dist/* output/
+
+          # switch FIRST, then write files into this branch
           git checkout -B output
-          git add -A
-          git commit -m "chore: update snake"
+
+          # make sure we can write and the path exists
+          mkdir -p output
+          chmod -R u+rwX dist output
+
+          # copy (not move) to avoid ownership/permission quirks from the generator
+          cp -f dist/github-contribution-grid-snake*.svg output/
+
+          git add output/*.svg
+          git commit -m "chore: update snake" || echo "No changes to commit"
           git push -f origin output
