@@ -3,9 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;FASTAPI%20|%20Django%20|%20AI%20|%20Enthusiast%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">Motivated Computer Scientist graduating from FAST NUCES, Lahore. I'm passionate about new learning and technologies and keep learning them
-every time. I'm always interested in new challenges that can allow me to gain more essential knowledge and challenge my creativity, problem solving
-and analytical skills.</h4>
+<h4 align="center">Computer Scientist with 3 years of professional experience. I graduated from FAST NUCES, Lahore, and have since worked with leading tech companies, including Devsinc and Turing. Passionate about continuous learning and staying at the forefront of new technologies, I thrive on taking on challenges that push my creativity, problem-solving, and analytical abilities. My experience has allowed me to not only refine my technical skills but also adapt to dynamic work environments and contribute effectively to cutting-edge projects.</h4>
 <br/>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p> -->
 
